@@ -1,5 +1,5 @@
 report_date,location,location_type,data_field,data_field_code,time_period_year,time_period_week,value,unit
-2016-01-27,United_States-Puerto_Rico,territory,zika_reported_travel,PR0001,2015-2016,0,1,cases
+2016-01-27,United_States-Puerto_Rico,territory,zika_reported_travel,PR0001,2015-2016,47-2,1,cases
 2016-01-27,United_States-Puerto_Rico,territory,zika_reported_local,PR0002,2015-2016,47-2,17,cases
 2016-01-27,United_States-Puerto_Rico,territory,yearly_reported_travel_cases,PR0003,2015-2016,47-2,0,cases
 2016-01-27,United_States-Puerto_Rico,territory,zika_reporeted_visitor,PR0004,2015-2016,47-2,1,cases
