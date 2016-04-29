@@ -29,6 +29,6 @@ report_date,location,location_type,data_field,data_field_code,year,week,value,un
 2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,1,5,cases
 2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,2,9,cases
 2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,3,8,cases
-2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0001,2016,4,14,cases
-2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0002,2016,5,32,cases
-2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0002,2016,6,35,cases
+2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,4,14,cases
+2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,5,32,cases
+2016-02-24,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,6,35,cases
