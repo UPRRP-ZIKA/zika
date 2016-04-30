@@ -15,4 +15,4 @@ PR0012,zika_reported_age_group_4,Lab positive cases for ages between 20 to 39 ye
 PR0013,zika_reported_age_group_5,Lab positive cases for ages between 40 to 64 years old,Lab positive cases for ages between 40 to 64 years old,PRDH_Arbovirus,cases,weeks and year
 PR0014,zika_reported_age_group_6,Lab positive cases for ages above 65 years old,Lab positive cases for ages above 65 years old,PRDH_Arbovirus,cases,weeks and year
 PR0015,zika_reported_pregnant_s,Lab positive symptomatic cases and pregnant,Lab positive symptomatic cases and pregnant,PRDH_Arbovirus,cases,weeks and year
-PR0016,zika_reported_pregnant_s,Lab positive asymptomatic cases and pregnant,Lab positive asymptomatic cases and pregnant,PRDH_Arbovirus,cases,weeks and year
+PR0016,zika_reported_pregnant_a,Lab positive asymptomatic cases and pregnant,Lab positive asymptomatic cases and pregnant,PRDH_Arbovirus,cases,weeks and year
