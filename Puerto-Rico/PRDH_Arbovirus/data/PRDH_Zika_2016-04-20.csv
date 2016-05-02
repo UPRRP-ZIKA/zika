@@ -15,7 +15,7 @@ report_date,location,location_type,data_field,data_field_code,time_period_year,t
 2016-04-20,United_States-Puerto_Rico,territory,zika_reported_age_group_4,PR0012,2015-2016,47-14,219,cases
 2016-04-20,United_States-Puerto_Rico,territory,zika_reported_age_group_5,PR0013,2015-2016,47-14,208,cases
 2016-04-20,United_States-Puerto_Rico,territory,zika_reported_age_group_6,PR0014,2015-2016,47-14,37,cases
-2016-04-20,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2015,47-14,10,cases
+2016-04-20,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2015,47-52,10,cases
 2016-04-20,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2016,1-14,616,cases
 2016-04-20,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2015,42,0,cases
 2016-04-20,United_States-Puerto_Rico,territory,zika_reported_cummulative,PR0000,2015,43,0,cases
