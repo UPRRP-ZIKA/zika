@@ -8,7 +8,7 @@ report_date,location,location_type,data_field,data_field_code,time_period_year,t
 2016-04-13,United_States-Puerto_Rico,territory,zika_reported_pregnant_s,PR0015,2015-2016,47-13,46,cases
 2016-04-13,United_States-Puerto_Rico,territory,zika_reported_pregnant_a,PR0016,2015-2016,47-13,25,cases
 2016-04-13,United_States-Puerto_Rico,territory,zika_reported_fatal,PR0007,2015-2016,47-13,0,cases
-2016-04-13,United_States-Puerto_Rico,territory,zika_reported_gb,PR0008,2015-2016,47-13,4,cases
+2016-04-13,United_States-Puerto_Rico,territory,zika_reported_gb,PR0008,2015-2016,47-13,6,cases
 2016-04-13,United_States-Puerto_Rico,territory,zika_reported_age_group_1,PR0009,2015-2016,47-13,6,cases
 2016-04-13,United_States-Puerto_Rico,territory,zika_reported_age_group_2,PR0010,2015-2016,47-13,8,cases
 2016-04-13,United_States-Puerto_Rico,territory,zika_reported_age_group_3,PR0011,2015-2016,47-13,100,cases
