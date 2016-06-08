@@ -13,3 +13,4 @@ PR0011,arbovirus_suspected_4weeks,Suspected cases of arbovirus in past 4 weeks,C
 PR0012,arbovirus_suspected_cumulative_2016,Suspected cases of arbovirus in 2016,Casos presuntos de arbovirus en 2016,PRDH_Arbovirus,cases,NA
 PR0013,gbs_reported_zika_confirmed,GBS reported including confirmed and suspected cases that are zika positive,Casos reportados de GBS confirmados y sospechosos positivos a zika,PRDH_Arbovirus,cases,NA
 PR0014,gbs_reported_flavi_confirmed,GBS reported including confirmed and suspected cases that are flavivirus confirmed,Casos reportados de GBS confirmados y sospechosos confirmados para flavivirus,PRDH_Arbovirus,cases,NA
+PR0015,congenital_developmental_defects_reported_cummulative_2015-2016, Reported congenital developmental defects from 2015-2016,Casos con defectos congenitos,PRDH_Arbovirus,cases,NA
